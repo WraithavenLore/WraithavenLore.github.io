@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ead1616d97218ab2",
+        "id": "e5da678647e822d8",
         "type": "tabs",
         "children": [
           {
-            "id": "2c1dfc0c647e6ed7",
+            "id": "08c8f3b4daa2283a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,32 +18,32 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f866c0aac6cc0fd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Levels.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       },
       {
-        "id": "cfc66170e045176e",
+        "id": "992167c0105851c8",
         "type": "tabs",
         "children": [
           {
-            "id": "5b112079e5922f41",
+            "id": "ff520ab1cb61085a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mana.md",
+                "file": "2024-02-25-mana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20cc326d15dae683",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-02-25-levels.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-25-essence.md",
+                "file": "2024-02-25-mana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-25-essence.md",
+                "file": "2024-02-25-mana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-25-essence.md"
+                "file": "2024-02-25-mana.md"
               }
             }
           }
@@ -176,12 +176,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c1dfc0c647e6ed7",
+  "active": "ff520ab1cb61085a",
   "lastOpenFiles": [
-    "Mana.md",
+    "2024-02-25-levels.md",
+    "2024-02-25-mana.md",
     "2024-02-25-essence.md",
-    "Levels.md",
-    "posts/mana.md",
-    "posts"
+    "2024-02-26.md",
+    "posts/essence.md",
+    "posts",
+    "posts/mana.md"
   ]
 }
