@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mana.md",
+                "file": "2024-02-25-essence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mana.md",
+                "file": "2024-02-25-essence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mana.md"
+                "file": "2024-02-25-essence.md"
               }
             }
           }
@@ -176,10 +176,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b112079e5922f41",
+  "active": "2c1dfc0c647e6ed7",
   "lastOpenFiles": [
-    "2024-02-25-essence.md",
     "Mana.md",
+    "2024-02-25-essence.md",
     "Levels.md",
     "posts/mana.md",
     "posts"
