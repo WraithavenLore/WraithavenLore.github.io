@@ -55,11 +55,11 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://www.dropbox.com/scl/fi/h121twqknzvvat42w7h46/wraithaven_games-LOGO-512-BLACK.png?rlkey=kvolschyxkn11ueor1tiep7ll
+avatar: https://www.dropbox.com/scl/fi/h121twqknzvvat42w7h46/wraithaven_games-LOGO-512-BLACK.png?rlkey=kvolschyxkn11ueor1tiep7ll?raw=1
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: https://www.dropbox.com/scl/fi/h121twqknzvvat42w7h46/wraithaven_games-LOGO-512-BLACK.png?rlkey=kvolschyxkn11ueor1tiep7ll
+social_preview_image: https://www.dropbox.com/scl/fi/h121twqknzvvat42w7h46/wraithaven_games-LOGO-512-BLACK.png?rlkey=kvolschyxkn11ueor1tiep7ll?raw=1
 
 # boolean type, the global switch for TOC in posts.
 toc: true
